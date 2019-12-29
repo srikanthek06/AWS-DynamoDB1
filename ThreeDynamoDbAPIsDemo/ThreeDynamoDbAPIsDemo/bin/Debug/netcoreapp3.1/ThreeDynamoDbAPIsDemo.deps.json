@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ThreeDynamoDbAPIsDemo/1.0.0": {
+        "dependencies": {
+          "AWSSDK.DynamoDBv2": "3.3.104.13",
+          "Newtonsoft.Json": "12.0.3"
+        },
+        "runtime": {
+          "ThreeDynamoDbAPIsDemo.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.3.104.11": {
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.104.11"
+          }
+        }
+      },
+      "AWSSDK.DynamoDBv2/3.3.104.13": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.104.11"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.DynamoDBv2.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.104.13"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.3": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.3.23909"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ThreeDynamoDbAPIsDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.3.104.11": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-xZ1p8MSrF7/AOLa7NlQiBIZLk3fW1J4ohDkBsIy8466yZxMYv2GCoeWaEXdSejNLVr9obyLnP3QsKJ8+Ra+1iA==",
+      "path": "awssdk.core/3.3.104.11",
+      "hashPath": "awssdk.core.3.3.104.11.nupkg.sha512"
+    },
+    "AWSSDK.DynamoDBv2/3.3.104.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-+FEeD08B0rGJcaWh7D3/HP9Uoahd9qfJLP38r9Sax+AuGbQNq8diLzqfZGojPBHqIUp6IQ8CMsOEDT7ERrEgZg==",
+      "path": "awssdk.dynamodbv2/3.3.104.13",
+      "hashPath": "awssdk.dynamodbv2.3.3.104.13.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6mgjfnRB4jKMlzHSl+VD+oUc1IebOZabkbyWj2RiTgWwYPPuaK1H97G1sHqGwPlS5npiF5Q0OrxN1wni2n5QWg==",
+      "path": "newtonsoft.json/12.0.3",
+      "hashPath": "newtonsoft.json.12.0.3.nupkg.sha512"
+    }
+  }
+}

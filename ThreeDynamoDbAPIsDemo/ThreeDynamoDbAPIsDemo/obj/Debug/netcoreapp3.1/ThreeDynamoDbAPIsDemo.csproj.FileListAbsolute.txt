@@ -1,0 +1,16 @@
+C:\SRIKANTH\Projects\AWS\ThreeDynamoDbAPIsDemo\ThreeDynamoDbAPIsDemo\bin\Debug\netcoreapp3.1\ThreeDynamoDbAPIsDemo.exe
+C:\SRIKANTH\Projects\AWS\ThreeDynamoDbAPIsDemo\ThreeDynamoDbAPIsDemo\obj\Debug\netcoreapp3.1\ThreeDynamoDbAPIsDemo.csprojAssemblyReference.cache
+C:\SRIKANTH\Projects\AWS\ThreeDynamoDbAPIsDemo\ThreeDynamoDbAPIsDemo\obj\Debug\netcoreapp3.1\ThreeDynamoDbAPIsDemo.AssemblyInfoInputs.cache
+C:\SRIKANTH\Projects\AWS\ThreeDynamoDbAPIsDemo\ThreeDynamoDbAPIsDemo\obj\Debug\netcoreapp3.1\ThreeDynamoDbAPIsDemo.AssemblyInfo.cs
+C:\SRIKANTH\Projects\AWS\ThreeDynamoDbAPIsDemo\ThreeDynamoDbAPIsDemo\bin\Debug\netcoreapp3.1\ThreeDynamoDbAPIsDemo.deps.json
+C:\SRIKANTH\Projects\AWS\ThreeDynamoDbAPIsDemo\ThreeDynamoDbAPIsDemo\bin\Debug\netcoreapp3.1\ThreeDynamoDbAPIsDemo.runtimeconfig.json
+C:\SRIKANTH\Projects\AWS\ThreeDynamoDbAPIsDemo\ThreeDynamoDbAPIsDemo\bin\Debug\netcoreapp3.1\ThreeDynamoDbAPIsDemo.runtimeconfig.dev.json
+C:\SRIKANTH\Projects\AWS\ThreeDynamoDbAPIsDemo\ThreeDynamoDbAPIsDemo\bin\Debug\netcoreapp3.1\ThreeDynamoDbAPIsDemo.dll
+C:\SRIKANTH\Projects\AWS\ThreeDynamoDbAPIsDemo\ThreeDynamoDbAPIsDemo\bin\Debug\netcoreapp3.1\ThreeDynamoDbAPIsDemo.pdb
+C:\SRIKANTH\Projects\AWS\ThreeDynamoDbAPIsDemo\ThreeDynamoDbAPIsDemo\bin\Debug\netcoreapp3.1\AWSSDK.Core.dll
+C:\SRIKANTH\Projects\AWS\ThreeDynamoDbAPIsDemo\ThreeDynamoDbAPIsDemo\bin\Debug\netcoreapp3.1\AWSSDK.DynamoDBv2.dll
+C:\SRIKANTH\Projects\AWS\ThreeDynamoDbAPIsDemo\ThreeDynamoDbAPIsDemo\obj\Debug\netcoreapp3.1\ThreeDynamoDbAPIsDemo.csproj.CopyComplete
+C:\SRIKANTH\Projects\AWS\ThreeDynamoDbAPIsDemo\ThreeDynamoDbAPIsDemo\obj\Debug\netcoreapp3.1\ThreeDynamoDbAPIsDemo.dll
+C:\SRIKANTH\Projects\AWS\ThreeDynamoDbAPIsDemo\ThreeDynamoDbAPIsDemo\obj\Debug\netcoreapp3.1\ThreeDynamoDbAPIsDemo.pdb
+C:\SRIKANTH\Projects\AWS\ThreeDynamoDbAPIsDemo\ThreeDynamoDbAPIsDemo\bin\Debug\netcoreapp3.1\entertainment.json
+C:\SRIKANTH\Projects\AWS\ThreeDynamoDbAPIsDemo\ThreeDynamoDbAPIsDemo\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
