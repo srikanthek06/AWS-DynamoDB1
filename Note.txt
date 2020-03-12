@@ -1,2 +1,5 @@
 https://github.com/donbavand
 for dynamodb
+
+https://github.com/medhatelmasry
+for netcore api and dbcontext
